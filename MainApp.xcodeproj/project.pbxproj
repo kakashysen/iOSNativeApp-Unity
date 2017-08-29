@@ -360,6 +360,7 @@
 				8AE359851F55BCAF0007433A /* Unity */,
 				8AE359701F55BBE80007433A /* AppDelegate.swift */,
 				8AE359721F55BBE80007433A /* ViewController.swift */,
+				8AE362761F55C4540007433A /* UnityViewController.swift */,
 				8AE359741F55BBE80007433A /* Main.storyboard */,
 				8AE359771F55BBE80007433A /* Assets.xcassets */,
 				8AE359791F55BBE80007433A /* LaunchScreen.storyboard */,
@@ -367,7 +368,6 @@
 				8AE3624B1F55BDD90007433A /* UnityBridge.h */,
 				8AE3624C1F55BDD90007433A /* UnityUtils.h */,
 				8AE3624D1F55BDD90007433A /* UnityUtils.mm */,
-				8AE362761F55C4540007433A /* UnityViewController.swift */,
 			);
 			path = MainApp;
 			sourceTree = "<group>";
